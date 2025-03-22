@@ -157,7 +157,7 @@
     {
       "name": "7 원더스 대결(듀얼)",
       "category": ["card", "strategy", "war"],
-      "image": "https://raw.githubusercontent.com/captaink11/boardmaster-data/main/images/7WondersDuel.png",
+      "image": "https://raw.githubusercontent.com/captaink11/boardmaster-data/main/image/7WondersDuel.png",
       "recommended_players": "2인",
       "Recommendation": 2,
       "difficulty": "hard",
