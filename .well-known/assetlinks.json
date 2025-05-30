@@ -3,8 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.boardmaster.gamehub",
-    "sha256_cert_fingerprints": ["DA:08:A3:80:D1:37:56:71:B3:83:C3:21:68:C9:39:7D:E5:0E:E3:FC:C8:40:22:D4:0B:00:10:FC:5E:9D:BE:A5",
-    "91:88:26:9c:8f:1b:4d:bf:e3:ea:b5:f4:69:15:bc:46:66:eb:ef:55:a1:9d:d7:8c:4f:28:3b:db:00:04:2d:7c",
-    "43:48:b4:8f:ff:ca:36:13:6a:24:21:bb:c1:5f:d4:e3:c4:25:6b:da:42:3f:44:42:b0:05:53:55:c6:e0:ba:78"]
+    "sha256_cert_fingerprints": ["da:08:a3:80:d1:37:56:71:b3:83:c3:21:68:c9:39:7d:e5:0e:e3:fc:c8:40:22:d4:0b:00:10:fc:5e:9d:be:a5,91:88:26:9c:8f:1b:4d:bf:e3:ea:b5:f4:69:15:bc:46:66:eb:ef:55:a1:9d:d7:8c:4f:28:3b:db:00:04:2d:7c,43:48:b4:8f:ff:ca:36:13:6a:24:21:bb:c1:5f:d4:e3:c4:25:6b:da:42:3f:44:42:b0:05:53:55:c6:e0:ba:78"]
   }
 }]
