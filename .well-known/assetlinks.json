@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.boardmaster.gamehub",
-    "sha256_cert_fingerprints": ["da:08:a3:80:d1:37:56:71:b3:83:c3:21:68:c9:39:7d:e5:0e:e3:fc:c8:40:22:d4:0b:00:10:fc:5e:9d:be:a5"]
+    "sha256_cert_fingerprints": ["DA:08:A3:80:D1:37:56:71:B3:83:C3:21:68:C9:39:7D:E5:0E:E3:FC:C8:40:22:D4:0B:00:10:FC:5E:9D:BE:A5"]
   }
 }]
